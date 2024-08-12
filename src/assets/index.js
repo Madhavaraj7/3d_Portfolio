@@ -29,8 +29,20 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import Netflix from './Netflix.png';
+import TicTacToe from './TicTacToe.png';
+import AccuWheather from './accu.png';
+import Chat from './Chat.png';
+
+
+
+
 
 export {
+  Chat,
+  AccuWheather,
+  TicTacToe,
+  Netflix,
   logo,
   backend,
   creator,
