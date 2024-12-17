@@ -29,17 +29,19 @@ import tesla from "./company/tesla.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-import Netflix from './Netflix.png';
-import TicTacToe from './TicTacToe.png';
-import AccuWheather from './accu.png';
-import Chat from './Chat.png';
-
-
-
-
+import Netflix from "./Netflix.png";
+import TicTacToe from "./TicTacToe.png";
+import AccuWheather from "./accu.png";
+import Chat from "./Chat.png";
+import Work from "./WorkNet.png";
+import blog from "./Blog.png";
+import task from "./task.png";
 
 export {
   Chat,
+  Work,
+  blog,
+  task,
   AccuWheather,
   TicTacToe,
   Netflix,
